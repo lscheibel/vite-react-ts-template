@@ -1,0 +1,6 @@
+@use '../../styles/variables' as vars;
+
+.input {
+    background: vars.$c-background;
+    border: none;
+}
